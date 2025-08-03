@@ -1,0 +1,5 @@
+{
+  "name": "VectorDB Visualizer",
+  "description": "An interactive application to visualize the complete lifecycle of vector embeddings, from creation and storage in a vector database to query retrieval.",
+  "requestFramePermissions": []
+}
